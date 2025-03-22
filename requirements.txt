@@ -32,11 +32,6 @@ importlib_metadata==8.6.1
 itsdangerous==2.2.0
 Jinja2==3.1.5
 jiter==0.8.2
-Kivy==2.3.1
-Kivy-Garden==0.1.5
-kivy_deps.angle==0.4.0
-kivy_deps.glew==0.3.1
-kivy_deps.sdl2==0.8.0
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
